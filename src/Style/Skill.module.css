@@ -1,0 +1,46 @@
+.wrapper {
+    height: 95vh;
+    text-align: center;
+}
+
+.title {
+    padding-top: 5vh;
+    padding-bottom: 8vh;
+    font-size: 7vh;
+    color: white;
+}
+
+.category {
+    padding-bottom: 2vh;
+    font-size: 4vmin;
+}
+
+.flex {
+    display: inline-flex;
+}
+
+.frontend, .backend {
+    margin: 0vh 2.5vmin;
+    box-shadow: 5px 5px 5px black;
+    width: 40vw;
+    height: 60vh;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: white;
+}
+
+.img {
+    height: 5vh;
+}
+
+.mongodb {
+    height: 5vh;
+    width: 10vh;
+}
+
+.item {
+    margin: 2vmin;
+    padding: 1vmin;
+    font-weight: bold;
+    width: 15vmin;
+    background-color: rgba(255, 255, 255, 0);
+}

@@ -1,0 +1,31 @@
+.wrapper {
+    height: 95vh;
+    text-align: center;
+    font-size: large;
+    color: white;
+}
+
+.wrapper2 {
+    padding-top: 5vh;
+}
+
+.name {
+    padding-top: 3vh;
+}
+
+.intro {
+    text-align: center;
+    padding-top: 10vh;
+    font-size: 3vmin;
+}
+
+.img {
+    width: 30vh;
+    border: 1px solid black;
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px black;
+}
+
+h2 {
+    padding-top: 5vh;
+}

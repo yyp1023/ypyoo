@@ -1,0 +1,68 @@
+.wrapper {
+    height: 95vh;
+    text-align: center;
+    color: white;
+}
+
+.title {
+    padding-top: 5vh;
+    padding-bottom: 2vh;
+    font-size: 7vh;
+}
+
+.input {
+    width: 30vh;
+    border-radius: 10px;
+    padding: 1vh;
+}
+
+textarea {
+    resize: none;
+    height: 15vh;
+}
+
+form {
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    width: fit-content;
+    padding: 4vh;
+    margin-top: 1vh;
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+button {
+    border-radius: 50px;
+}
+
+.field {
+    padding-bottom: 3vh;
+}
+
+.submit {
+    border-radius: 10px;
+    padding: 1vh;
+}
+
+.contact {
+    margin-top: 7vh;
+}
+
+.btn {
+    margin-left: 2vh;
+    margin-right: 2vh;
+    padding: 1vh;
+    border-radius: 50%;
+    font-size: x-large;
+    width: 6vh;
+    background-color: rgba(255, 255, 255, 0.30);
+}
+
+.fixed {
+    position: fixed;
+}
+
+a {
+    color: black;
+}

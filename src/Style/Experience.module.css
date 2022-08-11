@@ -1,0 +1,37 @@
+.wrapper {
+    height: 95vh;
+    text-align: center;
+}
+
+.title {
+    padding-top: 5vh;
+    padding-bottom: 8vh;
+    font-size: 7vh;
+    color: white;
+}
+
+.list {
+    text-align: -webkit-center;
+}
+
+.experience {
+    padding: 3vh;
+    margin: 3vh;
+    box-shadow: 5px 5px 5px black;
+    width: 50vmax;
+    cursor: pointer;
+    transition: .3s ease;
+    background-color: rgba(255, 255, 255, 0.15);
+    color: white;
+}
+
+.experience:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+}
+
+.experience h3 {
+    font-weight: bold;
+    padding-bottom: 1vh;
+}

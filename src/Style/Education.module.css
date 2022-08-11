@@ -1,0 +1,34 @@
+.wrapper {
+    height: 95vh;
+    text-align: center;
+    color: white;
+}
+
+.title {
+    padding-top: 5vh;
+    padding-bottom: 8vh;
+    font-size: 7vh;
+}
+
+.img {
+    width: 30vh;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px black;
+}
+
+.gbc {
+    font-weight: bold;
+    padding-top: 7vh;
+    font-size: 4vmin;
+}
+
+.t127 {
+    padding-top: 5vh;
+    font-size: 3vmin;
+}
+
+.date {
+    padding-top: 5vh;
+    font-size: 2.5vmin;
+}
